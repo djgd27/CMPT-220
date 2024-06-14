@@ -1,2 +1,2 @@
-# CMPT-220
-Marist College - Software Development I
+# My Work for CMPT 220
+Programs for Software Development I
